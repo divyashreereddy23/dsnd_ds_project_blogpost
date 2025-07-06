@@ -1,0 +1,27 @@
+{
+  "original_shape": [
+    21782,
+    114
+  ],
+  "final_shape": [
+    21782,
+    189
+  ],
+  "features_added": 75,
+  "multi_response_columns_processed": 15,
+  "simple_categorical_columns_processed": 6,
+  "top_features": [
+    "num__CompTotal",
+    "num__Country_frequency",
+    "num__YearsCodePro",
+    "num__YearsCodePro_squared",
+    "cat__Currency_BRL\tBrazilian real",
+    "cat__Currency_EUR European Euro",
+    "cat__Currency_ILS\tIsraeli new shekel",
+    "cat__Currency_USD\tUnited States dollar",
+    "cat__Currency_CHF\tSwiss franc",
+    "cat__Currency_CAD\tCanadian dollar"
+  ],
+  "baseline_r2_score": 0.9523828209632257,
+  "baseline_mae": 2946.82439752123
+}
