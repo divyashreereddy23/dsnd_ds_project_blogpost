@@ -51,7 +51,7 @@ stackoverflow-salary-analysis/
 │   ├── 01_initialchecks.ipynb             # Initial data exploration
 │   ├── 02_feature_engineering.ipynb       # Feature engineering process
 │   ├── 03_modeling.ipynb                  # Model training and evaluation
-│   └── 04_scenario_predictions.ipynb      # Creative scenario analysis
+│   └── 04_tailoredanalysis.ipynb          # Creative scenario analysis
 │
 ├── models/
 │   ├── best_model_gradient_boosting.pkl   # Trained final model
