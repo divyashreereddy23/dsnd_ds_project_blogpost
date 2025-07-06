@@ -1,9 +1,9 @@
 # Creative Scenarios - Question 4 Analysis
 *"What will happen in a creative, predictive scenario using the model that you have trained?"*
 
-## 🎯 **Scenario Framework Based on Your Model Results**
+## 🎯 **Scenario Framework Based on My Model Results**
 
-**Your Model Performance:**
+**My Model Performance:**
 - R² Score: 67.3% (explains salary variance)
 - MAE: $11,247 (prediction accuracy)
 - Top Predictors: Location (29%), Experience (18%), Education (10%), Age (8%), Company Size (6%)
@@ -298,7 +298,7 @@ Key Decisions: Broad skills, leadership development
 
 ## 🎯 **Key Takeaways from All Scenarios**
 
-### **For Your Blog Post:**
+### **For The Blog Post:**
 1. **Career switchers can expect $48-75K starting salaries** depending on path
 2. **Geographic arbitrage still exists in remote work** ($18K real purchasing power difference)
 3. **Technology choices have measurable ROI** (Data Science: +35%, DevOps: +25%)
@@ -317,34 +317,3 @@ Key Decisions: Broad skills, leadership development
 - **For long-term planning**: Specialization slightly outperforms generalization
 
 ---
-
-## 📝 **How to Present These in Your Project**
-
-### **Structure for Question 4:**
-```markdown
-## Creative Predictive Scenarios
-
-I applied our trained model to four real-world career scenarios:
-
-### Scenario 1: Career Switcher Analysis
-[Sarah's story and three paths]
-**Key Finding**: Backend Python path offers $4,500 premium over frontend
-
-### Scenario 2: Remote Work Geography
-[David's three location strategies]  
-**Key Finding**: Geographic arbitrage worth $18,000 in purchasing power
-
-### Scenario 3: Technology Investment ROI
-[Jennifer's skill development options]
-**Key Finding**: Data Science transition offers 35% salary increase
-
-### Scenario 4: 10-Year Career Projection
-[Two developers' different paths]
-**Key Finding**: Specialization vs generalization shows $17K difference
-
-All predictions include ±$11,247 confidence interval based on model accuracy.
-```
-
-This gives you compelling, data-driven scenarios that demonstrate real-world applications of your model! 
-
-**Ready for #2: Drafting your blog post with these scenarios?**
